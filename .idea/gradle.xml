@@ -12,6 +12,11 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/TemaLab2" />
+        <option name="gradleHome" value="" />
+        <option name="gradleJvm" value="corretto-22" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
